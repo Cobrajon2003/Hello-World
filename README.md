@@ -1,3 +1,3 @@
 # Hello-World
-Just getting started
+Just getting started.
 A lifelong learner exploring their courisoty.
